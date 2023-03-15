@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: User Story
-about: This is an issue template that defines a user story structure
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
